@@ -4,7 +4,9 @@
 > Fall 2023: This is currently a work in progress.
 > This tool has not been proven to work, (but it probably will).
 
-Coney Island Snowplow - A precision deburring tool for maintaining and repairing any MGN linear motion [bearing rail](https://en.wikipedia.org/wiki/Linear-motion_bearing).
+[Coney Island Snowplow](https://github.com/unixcarbide/coney_island_snowplow/blob/main/snowplow.v1.stl) - A precision deburring tool for maintaining and repairing any MGN linear motion [bearing rail](https://en.wikipedia.org/wiki/Linear-motion_bearing).
+
+This repo currently has 1 3D-printable tool, [snowplow.v1.stl](https://github.com/unixcarbide/coney_island_snowplow/blob/main/snowplow.v1.stl), and it's 3d model source file in Sketchup format.
 
 ![](images/IMG_8182.jpg)
 ![](images/example_rail.jpg)
