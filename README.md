@@ -1,12 +1,13 @@
 # Coney Island Snowplow
 
-Coney Island Snowplow - A precision deburring tool for maintaining and repairing any MGN linear motion [bearing rail](https://en.wikipedia.org/wiki/Linear-motion_bearing).
-
-![](images/IMG_8182.jpg)
-
 > [!WARNING]  
 > Fall 2023: This is currently a work in progress.
 > This tool has not been proven to work, (but it probably will).
+
+Coney Island Snowplow - A precision deburring tool for maintaining and repairing any MGN linear motion [bearing rail](https://en.wikipedia.org/wiki/Linear-motion_bearing).
+
+![](images/IMG_8182.jpg)
+![](images/example_rail.jpg)
 
 ## The Problem This Tool Solves:
 
