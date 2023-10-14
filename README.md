@@ -57,9 +57,12 @@ This tool uses a common "[hardened gage pin](https://www.mcmaster.com/catalog/12
 
 The tool can be 3d printed in any material you commonly print.  Examples in pictures here were printed in ASA, but because this is basically just a handle, you can use PLA, PETG, or ABS, or any other relatively solid filament. (TPU and the like would not work.)
 
-- The print was designed to be printed without supports, with it's butt end on the printbed
+- The print was designed to be printed without supports, with it's tail end on the printbed, threaded end up.
+- The examples were printed with a 5mm brim, this is suggested but not necessary.
 - The threaded end was deisgned to accept a common soda bottle cap, so you can easily store your pins inside![](images/IMG_7852.jpg)
 
+> [!NOTE]  
+> One printing tip: Getting the threads size to match a soda bottle may prove tricky, depending on shrinkage for your material.  It's a good idea to slice and print just the top of the print, to make sure the threads size is OK for your cap! Shrinking/enlarging the print by a few percent shouldn't appreciably change the pin-holding groove size.
 
 ### How to use the Tool 
 
@@ -67,7 +70,7 @@ The tool can be 3d printed in any material you commonly print.  Examples in pict
 2. Carefully remove the bearing carrage ([Nero 3D has a great how-to video if you've noever done this before](https://www.youtube.com/watch?v=i_F7D4UgkWY))
 3. Rub the pin down the rail several times, sliding the precision flat surface of the pin, flush against the rail groove.![](images/IMG_7866.jpg)
  
-As you use the tool, Yyu should be able to feel small imperfections as the pin plows into them, and, you should feel them dissappear after sliding the tool several times!
+As you use the tool, You should be able to feel small imperfections as the pin plows into them, and, you should feel them dissappear after sliding the tool several times!
 
 
 
