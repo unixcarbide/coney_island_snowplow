@@ -11,6 +11,7 @@ This repo currently has 1 3D-printable tool, [snowplow.v1.stl](https://github.co
 
 ![](images/IMG_8182.jpg)
 ![](images/example_rail.jpg)
+![](images/IMG_7866.jpg)
 
 ## The Problem This Tool Solves:
 
