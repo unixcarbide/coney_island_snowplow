@@ -36,7 +36,7 @@ No matter if your rails exist in a clean-room, or they were cut in some back-all
 
 ## Solving the problem
 
-This idea came from Spencer Webb, who produces [PFG Stones®](https://pfg.gg/) for machinsts and precision machine industries.
+This idea came from Spencer Webb, who produces [PFG Stones®](https://www.kineticprecision.com/all-about-pfg-stones1) for machinsts and precision machine industries.
 
 ### How it works:
 
